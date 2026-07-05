@@ -1,0 +1,18 @@
+</> JSON
+{
+  "CNN": {
+    "logo": "https://raw.githubusercontent.com/explorer-250/iptv-project/main/logos/cnn.png",
+    "category": "news",
+    "group": "Noticias"
+  },
+  "FOX": {
+    "logo": "https://raw.githubusercontent.com/explorer-250/iptv-project/main/logos/fox.png",
+    "category": "news",
+    "group": "Noticias"
+  },
+  "ESPN": {
+    "logo": "https://raw.githubusercontent.com/explorer-250/iptv-project/main/logos/espn.png",
+    "category": "sports",
+    "group": "Deportes"
+  }
+}
