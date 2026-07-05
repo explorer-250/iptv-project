@@ -1,0 +1,11 @@
+</> JSON
+{
+  "version": "1.0",
+  "lists": {
+    "favoritos": "playlists/favoritos.m3u",
+    "espanol": "playlists/mexico.m3u",
+    "deportes": "playlists/deportes.m3u",
+    "noticias": "playlists/noticias.m3u",
+    "infantiles": "playlists/infantiles.m3u"
+  }
+}
